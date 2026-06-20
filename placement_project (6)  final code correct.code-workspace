@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/Srinidhi/OneDrive/Desktop/placement_project"
+		},
+		{
+			"path": "../../../Downloads"
+		}
+	],
+	"settings": {
+		"python-envs.pythonProjects": [
+			{
+				"path": "templates",
+				"envManager": "ms-python.python:venv",
+				"packageManager": "ms-python.python:pip",
+				"workspace": "placement_project"
+			}
+		]
+	}
+}
